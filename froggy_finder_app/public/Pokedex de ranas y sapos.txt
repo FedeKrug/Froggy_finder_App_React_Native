@@ -1,0 +1,38 @@
+Pokedex de ranas y sapos
+
+Reconocimiento de ranas escuerzos y sapos a lo largo de Argentina.
+
+Las ranas se reconoceran a partir de fotos que el usuario les hace.
+
+
+Le da opciones al usuario de las posibilidades. 
+(implementar reconocimiento de imagenes con inteligencia artificial (como google lens)).
+
+Se le pedira el acceso al gps del usuario para documentar a las ranas
+
+
+
+El usuario podra acceder a una base de datos de las ranas o sapos ya encontrados, y para conseguir las cartas, deberían buscarlos y sacarles fotos o tal ves comprarlas en un mercado interno.
+
+Las cartas de las ranas serán validadas por el laboratorio de Pam, luego de eso, las cartas deberán ser "Verificadas". 
+
+
+Caracteristicas taxonomicas (caracteristicas especiales corporales).
+
+Determinar las especies venenosas y no venenosas. 
+
+
+Como se obtienen los datos de las ranas?
+La gente les saca fotos y las envia al laboratorio. 
+Si no coincide con las opciones, puede aparecer la opcion de enviar la foto al laboratorio para analizar y ademas se envia la ubicacion de la rana.
+El usuario debera enviar sus datos para ser contactado y le da la posibilidad al usuario de nombrar a la rana o sapo. 
+
+
+
+
+
+
+
+
+
+
