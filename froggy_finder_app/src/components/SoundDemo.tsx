@@ -2,9 +2,10 @@ import React from 'react';
 import { Text, TouchableOpacity, View } from 'react-native';
 import Sound from 'react-native-sound';
 
+
 export const SoundDemo = () => {
     const playSound = () => {
-        let sound = new Sound('sing.mp3', Sound.MAIN_BUNDLE, (error: any) => {
+        let sound = new Sound(Sound.MAIN_BUNDLE, (error: any) => {
             if (error) {
                 console.log('failed to load the sound', error);
                 return;
